@@ -1,0 +1,50 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.logo{
+    font-family: 'Lobster', sans-serif;
+}
+
+.bg-propio {
+    background-color: #373a3c;
+}
+
+
+img {
+    width: 100%;
+}
+
+.border-propio {
+    border-color: black;
+    opacity: 1;
+    
+}
+
+.carousel-indicators {
+    margin-bottom: -2rem;
+}
+
+.carousel-indicators .indicator {
+    height:1em;
+    width:1em;
+    border: none;
+    border-radius: 0.5em;
+    background-color: black;
+}
+
+.bg-fondo {
+    background-color: #DC3545;
+    color: #ffff;
+}
+
+.bg-footer{
+    background-color: black;
+    color: #ffff;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    margin-top: 5px;
+
+}
+
+
